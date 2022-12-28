@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on create Pages.
+- 🔭 I’m currently working on making Pages.
 - 🌱 I’m currently learning HTML CSS and Javascript :boom: 
 - 
 - 🤔 I’m looking for help with .
