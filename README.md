@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>🔭 I’m currently working on create Pages.</p>
+<p>🔭 I’m currently working on making Pages.</p>
 <p>🌱 I’m currently learning HTML CSS and Javascript :boom:  :rocket:</p>
 <p>💬 Ask me about HTML</p>
 <p>📫 How to reach me: nicoaltinier@gmail.com</p>
